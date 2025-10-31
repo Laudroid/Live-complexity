@@ -11,8 +11,6 @@
 - Connaître les limites des modèles actuels, les problèmes ouverts et leurs applications concrètes.
 ## Séance 1 : Fondements et rappels
 
-**Durée :** 3 heures
-
 ### Objectifs pédagogiques
 
 - Présenter les classes de complexité fondamentales : P, NP, PSPACE, EXPTIME.
@@ -29,8 +27,6 @@
 - Analyse du pire cas, du cas moyen et de la complexité amortie.
 ## Séance 2 : Complexité paramétrée et cas moyens
 
-**Durée :** 3 heures
-
 ### Objectifs pédagogiques
 
 - Comprendre la complexité moyenne et adversariale.
@@ -46,8 +42,6 @@
 - Présentation des learned indexes et leur usage en base de données.
 - Étude détaillée des attaques adversariales récentes (2024) sur ces structures.
 ## Séance 3 : Circuits, polynômes, parallélisation
-
-**Durée :** 3 heures
 
 ### Objectifs pédagogiques
 
@@ -70,8 +64,6 @@
 - Exemples d'algorithmes parallèles efficaces.
 ## Séance 4 : Algorithmes avancés de graphes et optimisation
 
-**Durée :** 3 heures
-
 ### Objectifs pédagogiques
 
 - Explorer des algorithmes avancés pour les graphes.
@@ -88,8 +80,6 @@
 - Applications à la programmation linéaire et semi-définie.
 ## Séance 5 : Algorithmes de matching bipartite et autres optimisations
 
-**Durée :** 3 heures
-
 ### Objectifs pédagogiques
 
 - Comprendre et implémenter les algorithmes de matching bipartite.
@@ -105,8 +95,6 @@
 - Méthode des quatre russes pour accélérer les algorithmes matriciels.
 - Flows rapides et algorithmes associés.
 ## Séance 6 : Limites, problèmes ouverts et applications
-
-**Durée :** 3 heures
 
 ### Objectifs pédagogiques
 
