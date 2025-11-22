@@ -78,13 +78,4 @@ Votre rendu devra inclure :
 *   Le(s) graphique(s) généré(s).
 *   Votre rapport d'analyse et de discussion.
 
-### Conseils pour l'utilisation de l'IA
-
-L'IA est un outil puissant pour l'aide à la programmation et la compréhension de concepts. Utilisez-la intelligemment :
-
-*   **Génération de boilerplate :** Demandez-lui de générer la structure de base de votre classe `HashTable` ou des fonctions utilitaires (comme une fonction de hachage simple).
-*   **Explication de concepts :** Si un point théorique vous échappe, interrogez l'IA pour obtenir des explications ou des exemples.
-*   **Débogage :** Si vous rencontrez un bug, décrivez-le à l'IA et demandez-lui des pistes de résolution.
-*   **Attention :** Ne vous contentez jamais de copier-coller. Vérifiez, testez, et surtout, *comprenez* chaque ligne de code et chaque explication. L'objectif de ce TP est votre apprentissage et votre maîtrise du sujet, pas celui de l'IA. Posez des questions critiques à l'IA : "Pourquoi ce choix de structure ?", "Quelles sont les alternatives ?", "Peux-tu me donner un exemple de test pour cette fonction ?"
-
 Bon courage !
