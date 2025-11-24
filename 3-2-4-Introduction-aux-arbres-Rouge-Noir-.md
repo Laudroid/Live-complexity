@@ -42,13 +42,21 @@ Un **arbre Rouge-Noir (RN)** est un arbre binaire de recherche auto-équilibré 
 
 ```mermaid
 graph TD
-    Root((10, Noir))
-    Root --> L((5, Rouge))
-    Root --> R((15, Rouge))
-    L --> LL((3, Noir))
-    L --> LR((7, Noir))
-    R --> RL((12, Noir))
-    R --> RR((18, Noir))
+    Root["10 (Noir)"]
+    L["5 (Rouge)"]
+    R["15 (Rouge)"]
+    LL["3 (Noir)"]
+    LR["7 (Noir)"]
+    RL["12 (Noir)"]
+    RR["18 (Noir)"]
+
+    Root --> L
+    Root --> R
+    L --> LL
+    L --> LR
+    R --> RL
+    R --> RR
+
 ```
 
 L’arbre respecte les propriétés : racine noire, nœuds rouges (5,15) n’ont pas d’enfant rouge, chaque chemin vers feuille a même nombre de noirs.
